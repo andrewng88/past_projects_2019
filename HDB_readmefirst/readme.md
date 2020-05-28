@@ -36,10 +36,13 @@ Project started mid May 2020 and due to complete by mid April.
 
 ## Deployment
 
-Initial Proof Of Concept [done](https://github.com/andrewng88/streamlit_aws)
+Initial Proof Of Concept deployed to AWS[done](https://github.com/andrewng88/streamlit_aws)
+Second Proof Of Concept deployed locally [done](https://github.com/andrewng88/streamlit_model) 
 
 ## Technology used
 
+<li> geoPY - generic(backup) scraping API and data processing
+<li> ONEMap- specific scraping API for SG context
 <li> pandas - data processing
 <li> numpy - data processing
 <li> matplotlib - viz
