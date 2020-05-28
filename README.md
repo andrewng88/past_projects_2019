@@ -1,7 +1,7 @@
 # Projects
 
 [ HDB prediction ( latest )](https://github.com/andrewng88/projects/tree/master/HDB_readmefirst)
-## Description
+#### Description
 End to end( includes deployment -POC) project using Linear Regression + Regularization to predict HDB price
 
 ## Past projects 
