@@ -1,4 +1,4 @@
-## Past projects done during General Assembly
+## Past projects done in 2019
 
 Capstone 1 ( Multiclass classification of Bank Complaints using NLP - Logistic Regression, Deep Learning LSTM )
 
